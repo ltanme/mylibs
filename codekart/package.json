@@ -1,0 +1,66 @@
+{
+  "name": "codekart",
+  "version": "0.1.9",
+  "description": "Web application framework for Node.js",
+  "main": "index.js",
+  "dependencies": {
+    "mysql": "2.0.0-rc1",
+    "redis": "0.10.0",
+    "ws": "0.4.31",
+    "formidable": "1.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yangjiePro/Codekart.git"
+  },
+  "keywords": [
+    "codekart",
+    "framework",
+    "MVC",
+    "sinatra",
+    "web",
+    "rest",
+    "restful",
+    "router",
+    "app",
+    "api"
+  ],
+  "author": {
+    "name": "杨捷",
+    "email": "yangjie@jojoin.com",
+    "url": "http://jojoin.com/user/1/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yangjiePro/Codekart/issues"
+  },
+  "gitHead": "889f10f559df7484056a8143eb3028041443226d",
+  "homepage": "https://github.com/yangjiePro/Codekart",
+  "_id": "codekart@0.1.9",
+  "_shasum": "8e54b0d8894b406b4dd2f06be83b13a2639885ed",
+  "_from": "codekart@",
+  "_npmVersion": "1.4.14",
+  "_npmUser": {
+    "name": "yangjiepro",
+    "email": "yangjie@jojoin.com"
+  },
+  "maintainers": [
+    {
+      "name": "yangjiepro",
+      "email": "yangjie@jojoin.com"
+    }
+  ],
+  "dist": {
+    "shasum": "8e54b0d8894b406b4dd2f06be83b13a2639885ed",
+    "tarball": "http://registry.npmjs.org/codekart/-/codekart-0.1.9.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/codekart/-/codekart-0.1.9.tgz"
+}
